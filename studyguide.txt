@@ -6,7 +6,7 @@ Day 1-2: Set up Flutter environment, explore basic widgets (Text, Container, Col
 Day 3-4: Create your first simple app (e.g., a profile page), understand Stateless and Stateful widgets.
 Day 5: Learn about Flutter layouts (Padding, Align, Expanded, Flex), start creating responsive UIs.
 Day 6-7: Build a small project using what you've learned.(eg.Splash screen)
-
+DanissavsJoshua
 #Week 2: Introduction to GetX for State Management
 #Goal: Master the basics of GetX state management.
 
