@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:testapp/views/homeview.dart';
 
 
+
 void main() {
   runApp(const MyApp());
 }// main Method
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Test App',
       
-      home: 
+      home: HomeView()
     );
   }
 }
