@@ -7,9 +7,10 @@ class HomeView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("DashBoard"),
+          title: Text("DashBoard", style: TextStyle(color: Colors.white)),
           centerTitle: true,
           backgroundColor: Colors.teal,
+    
         ),
         body: Container(
           width: 30,
