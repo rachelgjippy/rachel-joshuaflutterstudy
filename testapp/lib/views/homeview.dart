@@ -8,10 +8,10 @@ class HomeView extends StatelessWidget {
     return Scaffold(
 appBar: AppBar(title: Text("DashBoard"), centerTitle: true,),
 body: Container(
-  width: 20,
-  height: 20,
+  width: 30,
+  height: 30,
   color: Colors.red,
-  child: Text("Hello Rachel Gifty Jippy"),
+  child: Text("Hello Rachel Gifty Jippy "),
  
 )
     );
